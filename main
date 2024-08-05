@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .allpage{background-color: #5E17EB}
+        
+        .social-icon {
+            font-size: 2rem;
+            margin: 0 0.5rem;
+            transition: transform 0.2s;
+        }
+
+        .social-icon:hover {
+            transform: translateY(-5px);
+        }
+        .whiteletter{
+            color: white;
+        }
+        .fontMontserrat{
+            font-family: 'Montserrat';text-align: center;
+        }
+
+        .sizefontmedium{
+            font-size: 30px
+        }
+        .sizefontlarge{
+            font-size: 44px;
+        }
+        .sizefontsmall{
+            font-size: 18px;
+        }
+
+        .sizefontxsmall{
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body class="allpage">
+    <br>
+    <div class="whiteletter fontMontserrat sizefontmedium">
+        <span >Comunícate con nosotros </span>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="whiteletter fontMontserrat sizefontlarge">
+        <span>join futura,</span>
+        <br>
+        <span class="whiteletter fontMontserrat">reinvent your future. </span>
+    </div>
+    <br>
+    <br>
+    <div class="whiteletter fontMontserrat sizefontsmall">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAF2SURBVEiJ7ZQxS1xREIW/EQ1WCmoMWmhlyiBY2Yh/QZPANlrEzk7xB9jaSNpF1lrZQvAHSCB1IKayMQRTCCtqSlHZz8K78rL65OkqNp7mPmbunDOHuW/gFS+NaHyoQ8AU0Nki5xmwFREHNxF1WD316XCaGr4RWMwkZx7bujqT4VkAaEu5rnTuAGV17BHkY0A5cQB0ZwUa+AwcAtvq4API3wFbQA0oZXP/CUTECTCd1KvqmwLkHcAm0Ad8jIijXIEksgvMAuPAagEDX4EJ4EtE/MjrYlm1KbaShjV3T/dz6c5KU1x1GaC9QIdldQT4BlymWDswCSwVqL/tQC2pdXVNXc9563W1ku7U1VKmPt+BOgpUgO/AfERcqIvAB6Ax9HPgV0T8S0N+D1TUvYj4metA7VH31QO1v5D96/pe9bf6R32bddD8iqrAADAVEbWiAhFxzPU/1A9s3NXBwnOtikZiyGdads3r+lOy2QpqQDUi/rbI84onwhXUd8YT+8vB2AAAAABJRU5ErkJggg=="><span>  hola@futuratalents.com</span>
+    </div>
+    <br>
+    <div class="socialmedia whiteletter fontMontserrat sizefontxsmall">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHxSURBVEiJrZa9blNBEIXPJXYKUlHQBjsSLpPwBFiRXUHEU1DzU/IjBIFHoML5ewF+0vES0BKBlCBRB2J3dqKPYs9yN869tq/wSCt5x3PO2d0ZzVwpMeAWsAv8BIbMbkNjdoB1jRuQAW+A8wqkZXYObAGZJNWs8VrSE//+KOmdpB+Szi6dpthqkm5Kui/pnqRn9j+PzxJP/mBGwlIDHiY3WRPhzQHe/wfpW+AP8NT7T+bclpMDcGcKySKw4rWY+K8l7z+wb9P7Y5FXS6uEuAnsA4OEqA/sAQ1CgXy2v2dMy/uhElCzgHzDV4828or2G2hb5PrYoQAoFXBQJP8GdIEFry5wmIg0CrBTBfYT8qWC2y0BXxyzW0mAkND45t3CrIe4jmNOgXoVgRX7RsDCBIEaeU5S/D+BK2XgeVmZwC9JA4UWsDEB33ZM35jLNiHJe/YfliT5KvDVMTtj/81URQ1CCeJq6ZCXaSchPwGWKws4sJ2IAJx5RTsBbhfgLghMaxU3CA2xnxCfEobLcgnmQquIze5uUXACqvtkTZKaL4mNze5IPgnAh0mgKgYcmLMnYJ184DyaA/njJF+rmZ1bysfcgcLI/C5pNCNvXVJLYWRu2vcqy7IXUTUjDOp5Df2XeOiPX28N2AaOqf7ZcgT0gNWU8y8kDkzjFkf2XAAAAABJRU5ErkJggg=="><span> futuratalents</span>
+        &nbsp;
+        &nbsp;
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFPSURBVEiJ1ZW9SgNBFIW/kViIRAQDIoL4AiLY+xI+gBB9AR/BB7CyVCPa2CkIdhaWVvbBJor4E8WIoKV+Fk5gXTcakrHwwLJ37lzO4ezdO4M6otbUJ9PhSd1Sy0HdBqrAK9AkDcaBYaCG2lJf1LFE5KiVyNkiWmrkCkpq6FOkoTpQsFEFnoFbdb4fkTbhFwe5Zp/0wVvsALjvEPeslHcwqx6qu+pEH7wN1cImp8BPTV5Xj+OzGHMLmdyaOqceqbfqdXQ820kp/4lOM01ejbmVTK4R//Gi6Z381UEXmOZzSh/5nP42RoGlfHEvAgDVEEIFmAKy/ZtJIXARQtgBCCG0gP3MXiWFwFVu/ZCJh1IIvOXW7z8V99qDrvH/BUoFuTowGOOb+G4CZzE+z9XfZfbq39j++iz68yuzBBwAy8ClmvrS30Mtq5vRSSq01A21/AESYfvdAJp5PAAAAABJRU5ErkJggg=="><span> futura-talents</span>
+        &nbsp;
+        &nbsp;
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAJJSURBVEiJrZXfa89hFMdfZ9PYZuXHrhZJmyJGXKxQMiUurSbmwmpEK+1CXM4fIEUpuTBXIxK1pF2J3IgbIiWWEEPUMpom9nLxfb7z2fb9zn5433w+z3nez3mfc57POR+YJtSnjsWQWleMXzJdAWAZcB04DBwDyoH6GfgpDHVQPZ7eQ32tdhXjzySDUUSEwDlgv7p5Nr5Gkc0grcvUe8neqpb+V4Fkm69eTpf+Wb2rboFZliiPiPgeEfuADcB5oAHYOmsBtVI9q65PQo8iohP4lufMmeTwSmAXsAoYAQ5ExMg4Wh1wBGhXbwDdwIMsYYKAWgOcAZqBIeAjUAscBQaKxHOBXEl6MrbfhaJerb5T+9U2tVzdky5vYeJk+2Bd2tuY1nXqbrVdXTImA3URcDNFuSMi+pO9SNATERF9QF/Wli3RCWAx0BgR/WoJ0AEcTPvj6z8llKQoK4FDwOmIeJP2rgGngCfAwYj4OhOBfAaN5IbWpSTYDDQBTRHRU+TslJDvg+XAMH/rtx14PFvnWYG5wM80vACqgMHxZLUCqAC+JFN5eg79S+A9UKVWp/VDoKHAj2QvUMrfZqpNz3eTpqHWqCNqWz5S9UWa9a3qJrUz/b26MueuqI8ndZ4h31JfqvPSeqnam4RVh9WTmf169ZfaMVWBNeoPtTs709UF6lq1LGOrVp+rz7L2qYi0pKh61eVFONvUV+ondcW/fEYBBzuBi+S6+ja5Cx0Aash9vhuA+0BLpimnhzTnO9Q76odU/7fqVXWXOiGwYvgDJoC/r5vuT/oAAAAASUVORK5CYII="><span> futura.talents</span>
+    </div>
+</body>
+</html>
